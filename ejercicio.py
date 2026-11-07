@@ -7,7 +7,7 @@ pygame.init()
 WIDTH, HEIGHT = 800, 600
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 clock= pygame.time.Clock()
-pygame.display.set_caption('Juego del Espacion')
+pygame.display.set_caption('proyecto 1 - Juego del Espacion')
 
 #crear imagenes
 def  load_img(path, size=None)
